@@ -2,47 +2,82 @@
 
 <!-- ========================= HERO ========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:111827,100:1e293b&text=Mani%20Nakka&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Product%20Builder&descAlignY=64&descSize=17&animation=fadeIn" width="100%" alt="Mani Nakka"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0B1220,50:111827,100:1E293B&text=Mani%20Nakka&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Product%20Builder&descAlignY=62&descSize=17&animation=fadeIn"
+  width="100%"
+  alt="Mani Nakka"
+/>
 
 <br/>
 
-<!-- ========================= TYPING ========================= -->
+<!-- ========================= INTRO ========================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=32&lines=Backend+Engineer+building+production+systems;Python+%7C+Django+%7C+DRF+%7C+SQL;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Linux;Designing+APIs+that+solve+real+problems;Always+learning.+Always+building." alt="Typing animation"/>
+<h3>Building reliable APIs, backend systems &amp; real-world products.</h3>
 
-<br/><br/>
+<p>
+  <code>Python</code>&nbsp;&nbsp;
+  <code>Django</code>&nbsp;&nbsp;
+  <code>DRF</code>&nbsp;&nbsp;
+  <code>PostgreSQL</code>&nbsp;&nbsp;
+  <code>AWS</code>&nbsp;&nbsp;
+  <code>Docker</code>
+</p>
+
+<br/>
 
 <!-- ========================= SOCIAL LINKS ========================= -->
 
-<div align="center">
-
 <a href="https://nmanikumar.netlify.app" target="_blank">
-<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" height="40" alt="Portfolio"/>
+  <img
+    src="https://cdn.simpleicons.org/googlechrome/4285F4"
+    width="36"
+    height="36"
+    alt="Portfolio"
+    title="Portfolio"
+  />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/manikumarnakka/" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:narayanamanikumar2004@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/manikumar208" target="_blank">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="GitHub"/>
-</a>
 
-</div>
+<a href="https://www.linkedin.com/in/manikumarnakka/" target="_blank">
+  <img
+    src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    width="36"
+    height="36"
+    alt="LinkedIn"
+    title="LinkedIn"
+  />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:narayanamanikumar2004@gmail.com">
+  <img
+    src="https://cdn.simpleicons.org/gmail/EA4335"
+    width="36"
+    height="36"
+    alt="Email"
+    title="Email"
+  />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/manikumar208" target="_blank">
+  <img
+    src="https://cdn.simpleicons.org/github/FFFFFF"
+    width="36"
+    height="36"
+    alt="GitHub"
+    title="GitHub"
+  />
+</a>
 
 <br/><br/>
 
-<!-- ========================= PROFILE VIEWS ========================= -->
-
-<img src="https://komarev.com/ghpvc/?username=manikumar208&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views"/>
+<img
+  src="https://komarev.com/ghpvc/?username=manikumar208&label=Profile%20Views&color=38BDF8&style=flat-square"
+  alt="Profile Views"
+/>
 
 </div>
-
----
 
 ## 👨‍💻 About Me
 
