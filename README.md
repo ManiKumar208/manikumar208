@@ -1,31 +1,45 @@
 <div align="center">
 
-<!-- ========================= HERO ========================= -->
+<!-- ========================================================= -->
+<!--                    MANI NAKKA HERO                        -->
+<!-- ========================================================= -->
+
+<a href="https://nmanikumar208.netlify.app" target="_blank">
+  <img
+    src="./assets/mani-hero.png"
+    width="100%"
+    alt="Mani Nakka — Software Engineer, Backend Developer and Product Builder"
+  />
+</a>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                  ANIMATED INTRO                          -->
+<!-- ========================================================= -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0B1220,50:111827,100:1E293B&text=Mani%20Nakka&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Product%20Builder&descAlignY=62&descSize=17&animation=fadeIn"
-  width="100%"
-  alt="Mani Nakka"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Building+reliable+APIs+and+backend+systems;Python+%7C+Django+%7C+DRF+%7C+PostgreSQL;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Linux;Designing+APIs+that+solve+real+problems;Turning+ideas+into+production-ready+products;Always+learning.+Always+building."
+  alt="Animated developer introduction"
 />
 
-<br/>
+<br/><br/>
 
-<!-- ========================= INTRO ========================= -->
+<!-- ========================================================= -->
+<!--                     TECH STACK                            -->
+<!-- ========================================================= -->
 
-<h3>Building reliable APIs, backend systems &amp; real-world products.</h3>
+<img
+  src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis,aws,docker,linux"
+  height="42"
+  alt="Python Django FastAPI PostgreSQL Redis AWS Docker Linux"
+/>
 
-<p>
-  <code>Python</code>&nbsp;&nbsp;
-  <code>Django</code>&nbsp;&nbsp;
-  <code>DRF</code>&nbsp;&nbsp;
-  <code>PostgreSQL</code>&nbsp;&nbsp;
-  <code>AWS</code>&nbsp;&nbsp;
-  <code>Docker</code>
-</p>
+<br/><br/>
 
-<br/>
-
-<!-- ========================= SOCIAL LINKS ========================= -->
+<!-- ========================================================= -->
+<!--                    SOCIAL LINKS                           -->
+<!-- ========================================================= -->
 
 <a href="https://nmanikumar.netlify.app" target="_blank">
   <img
@@ -36,7 +50,7 @@
     title="Portfolio"
   />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/manikumarnakka/" target="_blank">
   <img
@@ -47,7 +61,7 @@
     title="LinkedIn"
   />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:narayanamanikumar2004@gmail.com">
   <img
@@ -58,7 +72,7 @@
     title="Email"
   />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/manikumar208" target="_blank">
   <img
@@ -72,10 +86,24 @@
 
 <br/><br/>
 
+<!-- ========================================================= -->
+<!--                  PROFILE ANALYTICS                        -->
+<!-- ========================================================= -->
+
 <img
-  src="https://komarev.com/ghpvc/?username=manikumar208&label=Profile%20Views&color=38BDF8&style=flat-square"
+  src="https://komarev.com/ghpvc/?username=manikumar208&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge"
   alt="Profile Views"
 />
+
+<br/><br/>
+
+<!-- ========================================================= -->
+<!--                    IDENTITY LINE                          -->
+<!-- ========================================================= -->
+
+<sub>
+  <b>CODE</b> • <b>BUILD</b> • <b>DEPLOY</b> • <b>GROW</b>
+</sub>
 
 </div>
 
