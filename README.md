@@ -1,125 +1,87 @@
 <div align="center">
 
-<!-- ========================= HERO ========================= -->
-
-<div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:1e293b&text=Mani%20Nakka&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Product%20Builder&descAlignY=60&descSize=18&animation=fadeIn"
-width="100%"
-alt="Narayana Mani Kumar"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:1e293b&text=Mani%20Nakka&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Product%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Mani Nakka"/>
 
 <br/>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Backend+Engineer+building+production+systems;Python+%7C+Django+%7C+DRF+%7C+SQL;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Linux;Designing+APIs+that+solve+real+problems;Always+learning.+Always+building."
-alt="Backend Engineer typing animation"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Backend+Engineer+building+production+systems;Python+%7C+Django+%7C+DRF+%7C+SQL;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Linux;Designing+APIs+that+solve+real+problems;Always+learning.+Always+building." alt="Typing animation"/>
 
 <br/><br/>
 
-<!-- SOCIAL / PORTFOLIO LINKS -->
-
 <a href="https://nmanikumar.netlify.app" target="_blank">
-  <img
-    src="https://www.logo.wine/a/logo/Google_Chrome/Google_Chrome-Logo.wine.svg"
-    width="42"
-    height="42"
-    alt="Portfolio"
-  />
+<img src="https://www.logo.wine/a/logo/Google_Chrome/Google_Chrome-Logo.wine.svg" width="42" height="42" alt="Portfolio"/>
 </a>
 
     
 
 <a href="https://www.linkedin.com/in/manikumarnakka/" target="_blank">
-  <img
-    src="https://cdn.simpleicons.org/linkedin/0A66C2"
-    width="42"
-    height="42"
-    alt="LinkedIn"
-  />
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn"/>
 </a>
 
     
 
 <a href="mailto:narayanamanikumar2004@gmail.com">
-  <img
-    src="https://cdn.simpleicons.org/gmail/EA4335"
-    width="42"
-    height="42"
-    alt="Email"
-  />
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Email"/>
 </a>
 
     
 
 <a href="https://github.com/YOUR_USERNAME" target="_blank">
-  <img
-    src="https://cdn.simpleicons.org/github/FFFFFF"
-    width="42"
-    height="42"
-    alt="GitHub"
-  />
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<!-- PROFILE VIEWS -->
-
-<img
-src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=38BDF8&style=flat-square"
-alt="Profile Views"
-/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **Software Engineer specializing in backend development**, with a focus on building reliable APIs, business logic, integrations, and cloud-ready applications.
+I'm a **Software Engineer focused on backend development**, building reliable APIs, business logic, integrations, and cloud-ready applications.
 
-I enjoy working close to the engineering fundamentals:
+My engineering approach is centered around:
 
 ```text
 Architecture → APIs → Data → Business Logic → Testing → Deployment
 ```
 
-### What I focus on
+### 🔭 What I Work On
 
-* 🐍 **Python backend engineering**
-* ⚙️ **Django & Django REST Framework**
-* 🗄️ **SQL & database design**
-* 🔐 **Authentication, authorization & RBAC**
-* ☁️ **AWS & cloud infrastructure**
-* 🐳 **Docker & containerized applications**
-* 🧪 **Automated testing with Pytest**
-* 🔄 **CI/CD & engineering automation**
-* 📡 **Third-party API & service integrations**
-* 📊 **Observability, debugging & production reliability**
+* 🐍 Python backend engineering
+* ⚙️ Django & Django REST Framework
+* 🗄️ SQL & database design
+* 🔐 Authentication, authorization & RBAC
+* ☁️ AWS & cloud infrastructure
+* 🐳 Docker & containerized applications
+* 🧪 Automated testing with Pytest
+* 🔄 CI/CD & engineering automation
+* 📡 Third-party API integrations
+* 📊 Monitoring, debugging & production reliability
 
-> I don't just want to write code — I want to understand the system behind it.
+> **Build systems that are simple to understand, reliable in production, and ready to evolve.**
 
 ---
 
-# 🧠 Engineering Stack
+## 🧠 Tech Stack
 
 <div align="center">
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi" />
 
-### Databases
+### Database
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis" />
 
 ### Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,nginx" />
 
-### Development Tools
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash" />
 
@@ -127,47 +89,47 @@ Architecture → APIs → Data → Business Logic → Testing → Deployment
 
 ---
 
-# 🏗️ Engineering Capabilities
+## 🏗️ Engineering Capabilities
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Backend Engineering
+### ⚙️ Backend Engineering
 
 * REST API architecture
 * Django / DRF
-* Authentication
+* Authentication & authorization
 * RBAC
 * Business workflows
 * Third-party integrations
 * Background processing
 * Error handling
-* API documentation
+* Swagger / OpenAPI
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
-* AWS services
+* AWS
 * Docker
 * Linux
 * CI/CD
 * CloudWatch
 * IAM
 * Application deployment
-* Environment configuration
+* Environment management
 * Production debugging
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Database & Data
+### 🗄️ Data & Databases
 
 * PostgreSQL
 * MySQL
@@ -180,19 +142,19 @@ Architecture → APIs → Data → Business Logic → Testing → Deployment
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### Engineering Practices
+### 🧪 Engineering Practices
 
 * Git workflows
 * Pull requests
 * Code reviews
 * Pytest
 * API testing
-* Swagger / OpenAPI
 * Clean architecture
 * Debugging
 * Documentation
+* Automation
 
 </td>
 </tr>
@@ -200,101 +162,112 @@ Architecture → APIs → Data → Business Logic → Testing → Deployment
 
 ---
 
-# 🚀 Featured Work
+# 🚀 Featured Projects
 
-## 🏥 Healthcare Platform
+### 🏥 Healthcare Platform
 
-> Backend engineering for a production healthcare platform.
-
-Worked across backend services, APIs, integrations, authentication,
-RBAC, healthcare workflows, reporting, and cloud infrastructure.
-
-### Engineering areas
+**Production-oriented healthcare platform focused on backend services, APIs, integrations, authentication, RBAC, reporting, and cloud infrastructure.**
 
 ```text
 Django / DRF
-     ↓
+      ↓
 REST APIs
-     ↓
-Business Workflows
-     ↓
+      ↓
+Business Logic
+      ↓
 Database
-     ↓
-Third-Party Integrations
-     ↓
+      ↓
+External Integrations
+      ↓
 AWS Infrastructure
-     ↓
-Monitoring & Production
+      ↓
+Monitoring & Reliability
 ```
 
-**Focus:** Backend Architecture • APIs • Integrations • RBAC • AWS • Testing
+**Focus:** `Backend Architecture` `REST APIs` `RBAC` `Integrations` `AWS` `Testing`
 
 ---
 
-## 🍽️ RR Village Dosa
+### 🍽️ RR Village Dosa
 
-> Building a product-focused platform around a real-world food business.
-
-The project explores product development from the ground up:
+**Product-focused application being built around a real-world food business.**
 
 * 📱 Mobile application
-* 📍 Location & pincode support
+* 📍 Location & pincode functionality
 * 🛒 Product workflows
 * 🔌 Backend APIs
 * 🗄️ Database integration
 * 🚀 Deployment
 
-**Focus:** Product Engineering • Mobile • Backend • APIs
+**Focus:** `Product Engineering` `Mobile` `Backend` `APIs`
 
 ---
 
-## 🌐 Developer Portfolio
+### 🌐 Personal Portfolio
 
-A modern engineering portfolio designed to showcase:
+**Developer portfolio showcasing engineering experience, projects, technical capabilities, and product work.**
 
-* Projects
-* Technical skills
-* Engineering experience
-* Product work
-* Architecture
-* Open-source contributions
+**Live:** [nmanikumar.netlify.app](https://nmanikumar.netlify.app)
 
-**Focus:** Developer Branding • Product Design • Full-Stack Architecture
+**Focus:** `Developer Branding` `Product Design` `Engineering`
 
 ---
 
-# ⚡ How I Think About Backend Systems
-
-```mermaid
-flowchart LR
-
-A[Client] --> B[API Gateway / Backend]
-B --> C[Authentication]
-C --> D[Business Logic]
-D --> E[Database]
-D --> F[External Services]
-E --> G[Cache]
-D --> H[Background Jobs]
-B --> I[Monitoring]
-
-style A fill:#0f172a,stroke:#38bdf8,color:#fff
-style B fill:#0f172a,stroke:#38bdf8,color:#fff
-style C fill:#0f172a,stroke:#38bdf8,color:#fff
-style D fill:#0f172a,stroke:#38bdf8,color:#fff
-style E fill:#0f172a,stroke:#38bdf8,color:#fff
-style F fill:#0f172a,stroke:#38bdf8,color:#fff
-style G fill:#0f172a,stroke:#38bdf8,color:#fff
-style H fill:#0f172a,stroke:#38bdf8,color:#fff
-style I fill:#0f172a,stroke:#38bdf8,color:#fff
-```
-
----
-
-# 📈 GitHub Activity
+# ⚡ Backend Architecture Mindset
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&rank_icon=github" />
+<img src="https://skillicons.dev/icons?i=python,django,postgres,redis,aws,docker" />
+
+<br/><br/>
+
+```text
+                    ┌──────────────────┐
+                    │      Client      │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │    REST API      │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ Authentication   │
+                    │    & RBAC        │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ Business Logic   │
+                    └──────┬─────┬─────┘
+                           │     │
+                  ┌────────┘     └─────────┐
+                  ▼                        ▼
+          ┌──────────────┐        ┌────────────────┐
+          │  PostgreSQL  │        │ External APIs  │
+          └──────────────┘        └────────────────┘
+                  │
+                  ▼
+          ┌──────────────┐
+          │    Redis     │
+          └──────────────┘
+                  │
+                  ▼
+          ┌──────────────┐
+          │ AWS / Docker │
+          └──────────────┘
+```
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&rank_icon=github&count_private=true" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8" />
 
@@ -304,7 +277,7 @@ style I fill:#0f172a,stroke:#38bdf8,color:#fff
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak"/>
 
 </div>
 
@@ -314,37 +287,9 @@ style I fill:#0f172a,stroke:#38bdf8,color:#fff
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
-
----
-
-# 📊 My Engineering Journey
-
-```text
-Python
-  │
-  ├── Django
-  │     └── Django REST Framework
-  │             │
-  │             ├── APIs
-  │             ├── Authentication
-  │             ├── RBAC
-  │             └── Business Logic
-  │
-  ├── SQL
-  │     ├── PostgreSQL
-  │     ├── MySQL
-  │     └── Redis
-  │
-  └── AWS
-        ├── Lambda
-        ├── ECS / App Runner
-        ├── IAM
-        ├── CloudWatch
-        └── S3
-```
 
 ---
 
@@ -352,6 +297,7 @@ Python
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### ☁️
@@ -402,6 +348,7 @@ Automation
 Agents
 
 </td>
+
 </tr>
 </table>
 
@@ -411,54 +358,52 @@ Agents
 
 <div align="center">
 
-| Principle                    | What it means                           |
-| ---------------------------- | --------------------------------------- |
-| **Keep it simple**           | Prefer understandable solutions         |
-| **Build for change**         | Design systems that can evolve          |
-| **Test critical paths**      | Protect important business logic        |
-| **Observe production**       | Logs and metrics are part of the system |
-| **Automate repetitive work** | Let tools handle predictable tasks      |
-| **Document decisions**       | Make engineering knowledge reusable     |
+|     Principle     | Approach                        |
+| :---------------: | :------------------------------ |
+|   **Simplicity**  | Build understandable solutions  |
+|  **Scalability**  | Design for future growth        |
+|  **Reliability**  | Protect critical workflows      |
+| **Observability** | Monitor what runs in production |
+|   **Automation**  | Reduce repetitive work          |
+| **Documentation** | Make decisions reusable         |
 
 </div>
 
 ---
 
-# 📚 Learning & Growth
+# 📚 Learning Path
 
-I'm continuously improving across:
+<div align="center">
 
 ```text
-Advanced Python
-        ↓
-Django Internals
-        ↓
+Python
+   ↓
+Django & REST APIs
+   ↓
+Databases & SQL
+   ↓
+AWS & Cloud
+   ↓
 System Design
-        ↓
+   ↓
 Distributed Systems
-        ↓
-AWS Architecture
-        ↓
+   ↓
 Performance Engineering
-        ↓
-AI + Backend Integration
+   ↓
+AI + Backend Engineering
 ```
+
+</div>
 
 ---
 
 # 🌍 Open Source & Collaboration
 
-I'm interested in collaborating on:
+Interested in collaborating on:
 
-* 🐍 Python projects
-* ⚙️ Backend systems
-* 🌐 Developer tools
-* ☁️ Cloud-native applications
-* 🤖 AI-powered products
-* 🧰 Developer productivity tools
-* 📚 Open-source projects
+`Python` · `Backend Systems` · `Developer Tools` · `Cloud Applications` · `AI Products` · `Open Source`
 
-If you're building something interesting, feel free to connect.
+If you're building something interesting, let's connect.
 
 ---
 
@@ -466,16 +411,20 @@ If you're building something interesting, feel free to connect.
 
 <div align="center">
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-38BDF8?style=for-the-badge&labelColor=0F172A"/>
+<a href="https://nmanikumar.netlify.app" target="_blank">
+<img src="https://www.logo.wine/a/logo/Google_Chrome/Google_Chrome-Logo.wine.svg" width="38" alt="Portfolio"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/>
+   
+
+<a href="https://www.linkedin.com/in/manikumarnakka/" target="_blank">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"/>
+   
+
+<a href="mailto:narayanamanikumar2004@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" alt="Email"/>
 </a>
 
 </div>
@@ -484,10 +433,10 @@ If you're building something interesting, feel free to connect.
 
 <div align="center">
 
-### 💡 Build → Learn → Improve → Repeat
+### Build → Learn → Improve → Repeat
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:111827,100:1e293b" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:111827,100:1e293b" width="100%" />
 
 </div>
