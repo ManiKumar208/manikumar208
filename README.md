@@ -224,28 +224,81 @@ Responsive personal web platform showcasing engineering trajectory, production c
 
 ## 🤝 Let's Connect
 
-I am open to backend software engineering opportunities, technical discussions, and collaborations.
+<br/>
+
+<div align="center">
+  <img src="./assets/connect-banner.svg" width="100%" alt="Connect Banner" />
+</div>
+
+<br/>
+
+I am actively open to **Software Engineer** and **Backend Developer** opportunities, technical discussions, and collaborative projects. Feel free to reach out across any of these channels:
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+Explore interactive project case studies, live demos, and my engineering trajectory.
+* **Direct URL:** [nmanikumar.netlify.app](https://nmanikumar.netlify.app)
+
+<br/>
+
+<a href="https://nmanikumar.netlify.app" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Visit Portfolio"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 LinkedIn Profile
+Connect for professional networking, engineering discussions, and role inquiries.
+* **Direct URL:** [linkedin.com/in/manikumarnakka](https://www.linkedin.com/in/manikumarnakka/)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/manikumarnakka/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✉️ Direct Email
+Send me an email for opportunities, consultations, or technical questions.
+* **Direct Address:** [narayanamanikumar2004@gmail.com](mailto:narayanamanikumar2004@gmail.com)
+
+<br/>
+
+<a href="mailto:narayanamanikumar2004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Send%20Direct%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🐙 GitHub Repositories
+Explore source code, active implementations, and technical backend architectures.
+* **Direct URL:** [github.com/ManiKumar208](https://github.com/ManiKumar208)
+
+<br/>
+
+<a href="https://github.com/ManiKumar208" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-<a href="https://nmanikumar.netlify.app" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="38" height="38" alt="Portfolio" title="Visit Portfolio Website" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/manikumarnakka/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" height="38" alt="LinkedIn" title="Connect on LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:narayanamanikumar2004@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" height="38" alt="Email" title="Send Direct Email" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ManiKumar208" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" height="38" alt="GitHub" title="View GitHub Repositories" />
-</a>
-
-<br/><br/>
-
-**Email:** [narayanamanikumar2004@gmail.com](mailto:narayanamanikumar2004@gmail.com) • **Portfolio:** [nmanikumar.netlify.app](https://nmanikumar.netlify.app) • **LinkedIn:** [linkedin.com/in/manikumarnakka](https://www.linkedin.com/in/manikumarnakka/)
+<sub>
+  <b>BUILD</b> • <b>OPTIMIZE</b> • <b>TEST</b> • <b>DEPLOY</b> • <b>SCALE</b>
+</sub>
 
 </div>

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 130" width="100%" height="100%">
+  <defs>
+    <linearGradient id="conn-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050811" />
+      <stop offset="50%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#030712" />
+    </linearGradient>
+
+    <linearGradient id="conn-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7" />
+      <stop offset="50%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#818CF8" />
+    </linearGradient>
+
+    <filter id="c-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <pattern id="conn-grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#1E293B" stroke-width="0.5" stroke-opacity="0.5" />
+    </pattern>
+  </defs>
+
+  <style>
+    @keyframes pulseOrb {
+      0%, 100% { opacity: 0.15; transform: scale(1); }
+      50% { opacity: 0.35; transform: scale(1.1); }
+    }
+    .ambient-glow {
+      animation: pulseOrb 4s ease-in-out infinite;
+      transform-origin: center;
+    }
+    .head-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 19px;
+      font-weight: 800;
+      letter-spacing: -0.3px;
+      fill: #F8FAFC;
+    }
+    .sub-text {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      font-weight: 600;
+      fill: #38BDF8;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+    }
+    .meta-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 12px;
+      fill: #94A3B8;
+    }
+  </style>
+
+  <!-- Frame Background -->
+  <rect width="848" height="128" x="1" y="1" rx="12" fill="url(#conn-bg)" stroke="#334155" stroke-width="1.2" />
+  <rect width="846" height="126" x="2" y="2" rx="11" fill="url(#conn-grid)" />
+
+  <!-- Ambient Light -->
+  <circle cx="425" cy="65" r="90" fill="#0284C7" class="ambient-glow" filter="url(#c-glow)" />
+
+  <!-- Top Shimmer Accent -->
+  <rect x="2" y="2" width="846" height="2.5" rx="1.2" fill="url(#conn-glow)" filter="url(#c-glow)" />
+
+  <!-- Content Centered -->
+  <g text-anchor="middle">
+    <text x="425" y="42" class="sub-text">Let's Build Something Reliable Together</text>
+    <text x="425" y="72" class="head-text">Open to Backend Software Engineering Opportunities</text>
+    <text x="425" y="98" class="meta-text">Available for Full-Time Roles • API Architecture • Cloud Backend Systems</text>
+  </g>
+</svg>
