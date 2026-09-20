@@ -6,7 +6,7 @@ import React, { useState } from 'react';
  * Interactive, dark-cinematic developer portfolio showcase component.
  * Built with React, Tailwind CSS, and SVG iconography.
  * 
- * Target Engineer: Mani Nakka (Software Engineer | Backend Developer)
+ * Target Engineer: Mani Kumar (Software Engineer | Backend Developer)
  * Live Portfolio: https://nmanikumar.netlify.app
  */
 
@@ -68,7 +68,7 @@ export default function DeveloperProfileShowcase() {
               AVAILABLE FOR BACKEND ROLES
             </div>
             <h1 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">
-              Mani Nakka
+              Mani Kumar
             </h1>
             <p className="text-sky-400 font-mono text-sm sm:text-base mt-1 font-semibold">
               Software Engineer <span className="text-slate-600">•</span> Backend Developer <span className="text-slate-600">•</span> Product Builder
@@ -218,7 +218,7 @@ export default function DeveloperProfileShowcase() {
 
       {/* Footer Info */}
       <div className="px-8 py-4 bg-slate-950 border-t border-slate-800/80 text-xs font-mono text-slate-500 flex flex-col sm:flex-row items-center justify-between gap-2">
-        <span>Mani Kumar Nakka • Software Engineering Profile</span>
+        <span>Mani Kumar • Software Engineering Profile</span>
         <span>Built with Python • Django • SQL • React • AWS</span>
       </div>
     </div>

@@ -8,7 +8,7 @@
   <img
     src="./assets/hero-banner.svg"
     width="100%"
-    alt="Mani kumar — Software Engineer | Backend Developer | Product Builder"
+    alt="Mani Kumar — Software Engineer | Backend Developer | Product Builder"
   />
 </a>
 
