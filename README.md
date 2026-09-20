@@ -1,19 +1,3 @@
-Your README is structurally good now, but I would make several corrections before you use it:
-
-* Replace every `YOUR_USERNAME` with `manikumar208`.
-* Keep the hero compact.
-* Remove the duplicate social section at the bottom; the hero already provides it.
-* Use the same Simple Icons source for all social icons.
-* Fix the GitHub stats, top languages, streak, and snake URLs.
-* Use `postgresql` consistently in `skillicons.dev`.
-* Keep the technical sections focused on backend engineering.
-* Avoid the old Google Chrome logo URL from `logo.wine`.
-* Keep the profile-view counter tied to `manikumar208`.
-* Your contribution snake requires a GitHub Action/repository workflow to actually generate the SVG.
-
-Here is the **complete cleaned and corrected README**, ready to copy-paste.
-
-````markdown
 <div align="center">
 
 <!-- ========================= HERO ========================= -->
@@ -26,14 +10,14 @@ Here is the **complete cleaned and corrected README**, ready to copy-paste.
 
 <br/>
 
-<p>
-  <strong>Building reliable APIs, backend systems &amp; real-world products.</strong>
-</p>
+<!-- ========================= INTRO ========================= -->
+
+<h3>Building reliable APIs, backend systems &amp; real-world products.</h3>
 
 <p>
   <code>Python</code>&nbsp;&nbsp;
   <code>Django</code>&nbsp;&nbsp;
-  <code>Django REST Framework</code>&nbsp;&nbsp;
+  <code>DRF</code>&nbsp;&nbsp;
   <code>PostgreSQL</code>&nbsp;&nbsp;
   <code>AWS</code>&nbsp;&nbsp;
   <code>Docker</code>
@@ -95,8 +79,6 @@ Here is the **complete cleaned and corrected README**, ready to copy-paste.
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 I'm a **Software Engineer focused on backend development**, building reliable APIs, business logic, integrations, and cloud-ready applications.
@@ -105,7 +87,7 @@ My engineering approach is centered around:
 
 ```text
 Architecture → APIs → Data → Business Logic → Testing → Deployment
-````
+```
 
 ### 🔭 What I Work On
 
@@ -223,7 +205,7 @@ Architecture → APIs → Data → Business Logic → Testing → Deployment
 
 # 🚀 Featured Projects
 
-## 🏥 Healthcare Platform
+### 🏥 Healthcare Platform
 
 **Production-oriented healthcare platform focused on backend services, APIs, integrations, authentication, RBAC, reporting, and cloud infrastructure.**
 
@@ -243,14 +225,13 @@ AWS Infrastructure
 Monitoring & Reliability
 ```
 
-**Focus:**
-`Backend Architecture` · `REST APIs` · `RBAC` · `Integrations` · `AWS` · `Testing`
+**Focus:** `Backend Architecture` `REST APIs` `RBAC` `Integrations` `AWS` `Testing`
 
 ---
 
-## 🍽️ RR Village Dosa
+### 🍽️ RR Village Dosa
 
-**Product-focused application built around a real-world food business.**
+**Product-focused application being built around a real-world food business.**
 
 * 📱 Mobile application
 * 📍 Location & pincode functionality
@@ -259,19 +240,17 @@ Monitoring & Reliability
 * 🗄️ Database integration
 * 🚀 Deployment
 
-**Focus:**
-`Product Engineering` · `Mobile` · `Backend` · `APIs`
+**Focus:** `Product Engineering` `Mobile` `Backend` `APIs`
 
 ---
 
-## 🌐 Personal Portfolio
+### 🌐 Personal Portfolio
 
 **Developer portfolio showcasing engineering experience, projects, technical capabilities, and product work.**
 
 **Live:** [nmanikumar.netlify.app](https://nmanikumar.netlify.app)
 
-**Focus:**
-`Developer Branding` · `Product Design` · `Engineering`
+**Focus:** `Developer Branding` `Product Design` `Engineering`
 
 ---
 
@@ -279,7 +258,7 @@ Monitoring & Reliability
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,postgresql,redis,aws,docker" />
+<img src="https://skillicons.dev/icons?i=python,django,postgres,redis,aws,docker" />
 
 <br/><br/>
 
@@ -329,17 +308,9 @@ Monitoring & Reliability
 
 <div align="center">
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=manikumar208&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&rank_icon=github&count_private=true"
-alt="GitHub Stats"
-/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&rank_icon=github&count_private=true" />
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikumar208&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8"
-alt="Top Languages"
-/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8" />
 
 </div>
 
@@ -347,10 +318,7 @@ alt="Top Languages"
 
 <div align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=manikumar208&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B"
-alt="GitHub Streak"
-/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak"/>
 
 </div>
 
@@ -360,10 +328,7 @@ alt="GitHub Streak"
 
 <div align="center">
 
-<img
-src="https://raw.githubusercontent.com/manikumar208/manikumar208/output/github-contribution-grid-snake.svg"
-alt="Contribution Snake"
-/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
 
@@ -483,80 +448,36 @@ If you're building something interesting, let's connect.
 
 ---
 
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://nmanikumar.netlify.app" target="_blank">
+<img src="https://www.logo.wine/a/logo/Google_Chrome/Google_Chrome-Logo.wine.svg" width="38" alt="Portfolio"/>
+</a>
+
+   
+
+<a href="https://www.linkedin.com/in/manikumarnakka/" target="_blank">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn"/>
+</a>
+
+   
+
+<a href="mailto:narayanamanikumar2004@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" alt="Email"/>
+</a>
+
+</div>
+
+<br/>
+
 <div align="center">
 
 ### Build → Learn → Improve → Repeat
 
 <br/>
 
-<a href="https://nmanikumar.netlify.app" target="_blank">
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="32" height="32" alt="Portfolio"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/manikumarnakka/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:narayanamanikumar2004@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/manikumar208" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" height="32" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f172a,50:111827,100:1e293b"
-width="100%"
-alt="Footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:111827,100:1e293b" width="100%" />
 
 </div>
-```
-
-### One important point about the snake
-
-This URL:
-
-```text
-https://raw.githubusercontent.com/manikumar208/manikumar208/output/github-contribution-grid-snake.svg
-```
-
-will **not automatically work just because the URL is correct**.
-
-Your `manikumar208` profile repository needs a GitHub Actions workflow that generates:
-
-```text
-github-contribution-grid-snake.svg
-```
-
-into the `output` branch.
-
-So the README itself is now correctly configured, but the snake requires that workflow separately.
-
-### Final hero appearance
-
-Your top section will now read approximately:
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│                       Mani Nakka                             │
-│                                                             │
-│       Software Engineer | Backend Developer | Product       │
-│                         Builder                              │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-
-     Building reliable APIs, backend systems & real-world products.
-
-     Python   Django   Django REST Framework   PostgreSQL   AWS   Docker
-
-                 🌐      in      ✉      GitHub
-
-                         Profile Views
-```
-
-This is considerably more compact than the earlier version and avoids the huge empty region you had in the screenshot.
