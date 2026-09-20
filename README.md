@@ -14,10 +14,25 @@
 
 <!-- ========================= SOCIAL LINKS ========================= -->
 
-<a href="https://nmanikumar.netlify.app" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="34" height="34" alt="Portfolio"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/manikumarnakka/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" height="34" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:narayanamanikumar2004@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34" alt="Email"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/manikumar208" target="_blank"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="34" height="34" alt="GitHub"/></a>
+<div align="center">
+
+<a href="https://nmanikumar.netlify.app" target="_blank">
+<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" height="40" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/manikumarnakka/" target="_blank">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:narayanamanikumar2004@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/manikumar208" target="_blank">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="GitHub"/>
+</a>
+
+</div>
 
 <br/><br/>
 
