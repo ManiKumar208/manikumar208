@@ -10,15 +10,15 @@
 
 <br/><br/>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://nmanikumar.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/>
 </a>
 &nbsp;
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/manikumarnakka/)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="YOUR_EMAIL">
+<a href="narayanamanikumar2004@gmail.com">
 <img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
