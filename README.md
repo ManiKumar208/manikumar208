@@ -52,7 +52,7 @@ alt="Typing animation"
 
     
 
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/ManiKumar208" target="_blank">
   <img
     src="https://cdn.simpleicons.org/github/FFFFFF"
     width="42"
