@@ -10,16 +10,35 @@
 
 <br/><br/>
 
-<a href="https://nmanikumar.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/>
+<a href="https://nmanikumar.netlify.app" target="_blank">
+  <img
+    src="https://www.logo.wine/a/logo/Google_Chrome/Google_Chrome-Logo.wine.svg"
+    width="42"
+    height="42"
+    alt="Portfolio"
+  />
 </a>
-&nbsp;
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/manikumarnakka/)">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/manikumarnakka/" target="_blank">
+  <img
+    src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    width="42"
+    height="42"
+    alt="LinkedIn"
+  />
 </a>
-&nbsp;
-<a href="narayanamanikumar2004@gmail.com">
-<img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:narayanamanikumar2004@gmail.com">
+  <img
+    src="https://zonalogo.com/assets/gmail-logo-png-svg.webp?asset=2891"
+    width="42"
+    height="42"
+    alt="Email"
+  />
 </a>
 
 <br/><br/>
