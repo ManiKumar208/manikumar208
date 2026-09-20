@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 210" width="100%" height="100%">
+  <defs>
+    <linearGradient id="pf-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F19" />
+      <stop offset="50%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#090D16" />
+    </linearGradient>
+    <linearGradient id="pf-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#C084FC" />
+    </linearGradient>
+    <linearGradient id="pf-card" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.9" />
+    </linearGradient>
+    <filter id="pf-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 700; fill: #F8FAFC; }
+    .subtitle { font-family: 'JetBrains Mono', monospace, -apple-system; font-size: 11px; font-weight: 600; fill: #38BDF8; letter-spacing: 1.5px; text-transform: uppercase; }
+    .node-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: 600; fill: #F1F5F9; }
+    .node-desc { font-family: 'JetBrains Mono', monospace; font-size: 10px; fill: #94A3B8; }
+    .badge { font-family: 'JetBrains Mono', monospace; font-size: 10px; font-weight: 600; fill: #38BDF8; }
+    .arrow { stroke: #38BDF8; stroke-width: 1.5; stroke-dasharray: 4,3; }
+  </style>
+
+  <!-- Background Canvas -->
+  <rect width="798" height="208" x="1" y="1" rx="12" fill="url(#pf-bg)" stroke="#334155" stroke-width="1.2" />
+
+  <!-- Top Accent Glow Line -->
+  <rect x="1" y="1" width="798" height="3" rx="1.5" fill="url(#pf-cyan)" filter="url(#pf-glow)" />
+
+  <!-- Header Section -->
+  <text x="32" y="36" class="subtitle">Engineering Portfolio Platform</text>
+  <text x="32" y="60" class="title">Interactive Case Studies, Engineering Trajectory &amp; Telemetry</text>
+
+  <!-- Status Indicator -->
+  <circle cx="705" cy="34" r="4" fill="#10B981" />
+  <circle cx="705" cy="34" r="8" fill="#10B981" opacity="0.25" />
+  <text x="718" y="38" font-family="-apple-system, sans-serif" font-size="11px" font-weight="600" fill="#10B981">DEPLOYED</text>
+
+  <!-- Architecture Flow Nodes -->
+  <!-- Node 1 -->
+  <rect x="32" y="82" width="160" height="64" rx="8" fill="url(#pf-card)" stroke="#334155" stroke-width="1" />
+  <text x="46" y="106" class="node-title">Interactive UI</text>
+  <text x="46" y="126" class="node-desc">React + TypeScript</text>
+
+  <!-- Arrow 1 -> 2 -->
+  <line x1="192" y1="114" x2="224" y2="114" class="arrow" />
+  <polygon points="224,111 229,114 224,117" fill="#38BDF8" />
+
+  <!-- Node 2 -->
+  <rect x="230" y="82" width="160" height="64" rx="8" fill="url(#pf-card)" stroke="#0284C7" stroke-width="1.2" />
+  <text x="244" y="106" class="node-title">Design System</text>
+  <text x="244" y="126" class="node-desc">Tailwind CSS + Dark Theme</text>
+
+  <!-- Arrow 2 -> 3 -->
+  <line x1="390" y1="114" x2="422" y2="114" class="arrow" />
+  <polygon points="422,111 427,114 422,117" fill="#38BDF8" />
+
+  <!-- Node 3 -->
+  <rect x="428" y="82" width="160" height="64" rx="8" fill="url(#pf-card)" stroke="#334155" stroke-width="1" />
+  <text x="442" y="106" class="node-title">CI / CD Pipeline</text>
+  <text x="442" y="126" class="node-desc">Automated Git Builds</text>
+
+  <!-- Arrow 3 -> 4 -->
+  <line x1="588" y1="114" x2="620" y2="114" class="arrow" />
+  <polygon points="620,111 625,114 620,117" fill="#38BDF8" />
+
+  <!-- Node 4 -->
+  <rect x="626" y="82" width="142" height="64" rx="8" fill="url(#pf-card)" stroke="#334155" stroke-width="1" />
+  <text x="640" y="106" class="node-title">Edge Delivery</text>
+  <text x="640" y="126" class="node-desc">Netlify Global CDN</text>
+
+  <!-- Footer Tags -->
+  <rect x="32" y="166" width="56" height="22" rx="4" fill="#1E293B" stroke="#334155" stroke-width="0.8" />
+  <text x="42" y="181" class="badge">React</text>
+
+  <rect x="96" y="166" width="82" height="22" rx="4" fill="#1E293B" stroke="#334155" stroke-width="0.8" />
+  <text x="106" y="181" class="badge">TypeScript</text>
+
+  <rect x="186" y="166" width="92" height="22" rx="4" fill="#1E293B" stroke="#334155" stroke-width="0.8" />
+  <text x="196" y="181" class="badge">Tailwind CSS</text>
+
+  <rect x="286" y="166" width="94" height="22" rx="4" fill="#1E293B" stroke="#334155" stroke-width="0.8" />
+  <text x="296" y="181" class="badge">Netlify CI/CD</text>
+
+  <rect x="388" y="166" width="76" height="22" rx="4" fill="#1E293B" stroke="#334155" stroke-width="0.8" />
+  <text x="398" y="181" class="badge">Live Demo</text>
+</svg>
