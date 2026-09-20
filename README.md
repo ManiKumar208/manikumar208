@@ -308,9 +308,9 @@ Monitoring & Reliability
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&rank_icon=github&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ManiKumar208&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&rank_icon=github&count_private=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiKumar208&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8" />
 
 </div>
 
@@ -318,7 +318,7 @@ Monitoring & Reliability
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=ManiKumar208&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak"/>
 
 </div>
 
@@ -328,7 +328,7 @@ Monitoring & Reliability
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/ManiKumar208/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
 
