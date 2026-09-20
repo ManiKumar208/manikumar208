@@ -1,160 +1,70 @@
 <div align="center">
 
-<!-- ========================= HERO BANNER ========================= -->
+<!-- ========================= HERO ========================= -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Mani%20Nakka&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Product%20Builder&descAlignY=62&descSize=17&animation=fadeIn&color=0:0B1220,45:111827,100:1E293B"
+  src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0B1220,50:111827,100:1E293B&text=Mani%20Nakka&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Product%20Builder&descAlignY=62&descSize=17&animation=fadeIn"
   width="100%"
   alt="Mani Nakka"
 />
 
-<!-- ========================= ANIMATED INTRO ========================= -->
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Building+reliable+APIs+and+backend+systems;Python+%7C+Django+%7C+DRF+%7C+PostgreSQL;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Linux;Designing+APIs+that+solve+real+problems;Turning+ideas+into+production-ready+products;Always+learning.+Always+building."
-  alt="Animated developer introduction"
-/>
-
 <br/>
 
-<!-- ========================= TECH STACK ========================= -->
+<!-- ========================= INTRO ========================= -->
 
-<img
-  src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis,aws,docker,linux"
-  height="42"
-  alt="Python Django FastAPI PostgreSQL Redis AWS Docker Linux"
-/>
+<h3>Building reliable APIs, backend systems &amp; real-world products.</h3>
 
-<br/><br/>
+<p>
+  <code>Python</code>&nbsp;&nbsp;
+  <code>Django</code>&nbsp;&nbsp;
+  <code>DRF</code>&nbsp;&nbsp;
+  <code>PostgreSQL</code>&nbsp;&nbsp;
+  <code>AWS</code>&nbsp;&nbsp;
+  <code>Docker</code>
+</p>
+
+<br/>
 
 <!-- ========================= SOCIAL LINKS ========================= -->
 
 <a href="https://nmanikumar.netlify.app" target="_blank">
   <img
     src="https://cdn.simpleicons.org/googlechrome/4285F4"
-    width="34"
-    height="34"
+    width="36"
+    height="36"
     alt="Portfolio"
     title="Portfolio"
   />
 </a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/manikumarnakka/" target="_blank">
-  <img
-    src="<div align="center">
-
-<!-- ========================= HERO BANNER ========================= -->
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Mani%20Nakka&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Product%20Builder&descAlignY=62&descSize=17&animation=fadeIn&color=0:0B1220,45:111827,100:1E293B"
-  width="100%"
-  alt="Mani Nakka"
-/>
-
-<!-- ========================= ANIMATED INTRO ========================= -->
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Building+reliable+APIs+and+backend+systems;Python+%7C+Django+%7C+DRF+%7C+PostgreSQL;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Linux;Designing+APIs+that+solve+real+problems;Turning+ideas+into+production-ready+products;Always+learning.+Always+building."
-  alt="Animated developer introduction"
-/>
-
-<br/>
-
-<!-- ========================= TECH STACK ========================= -->
-
-<img
-  src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis,aws,docker,linux"
-  height="42"
-  alt="Python Django FastAPI PostgreSQL Redis AWS Docker Linux"
-/>
-
-<br/><br/>
-
-<!-- ========================= SOCIAL LINKS ========================= -->
-
-<a href="https://nmanikumar.netlify.app" target="_blank">
-  <img
-    src="https://cdn.simpleicons.org/googlechrome/4285F4"
-    width="34"
-    height="34"
-    alt="Portfolio"
-    title="Portfolio"
-  />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/manikumarnakka/" target="_blank">
-  <img
-    src="<div align="center">
-
-<!-- ========================= HERO BANNER ========================= -->
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Mani%20Nakka&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Product%20Builder&descAlignY=62&descSize=17&animation=fadeIn&color=0:0B1220,45:111827,100:1E293B"
-  width="100%"
-  alt="Mani Nakka"
-/>
-
-<!-- ========================= ANIMATED INTRO ========================= -->
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Building+reliable+APIs+and+backend+systems;Python+%7C+Django+%7C+DRF+%7C+PostgreSQL;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Linux;Designing+APIs+that+solve+real+problems;Turning+ideas+into+production-ready+products;Always+learning.+Always+building."
-  alt="Animated developer introduction"
-/>
-
-<br/>
-
-<!-- ========================= TECH STACK ========================= -->
-
-<img
-  src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis,aws,docker,linux"
-  height="42"
-  alt="Python Django FastAPI PostgreSQL Redis AWS Docker Linux"
-/>
-
-<br/><br/>
-
-<!-- ========================= SOCIAL LINKS ========================= -->
-
-<a href="https://nmanikumar.netlify.app" target="_blank">
-  <img
-    src="https://cdn.simpleicons.org/googlechrome/4285F4"
-    width="34"
-    height="34"
-    alt="Portfolio"
-    title="Portfolio"
-  />
-</a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/manikumarnakka/" target="_blank">
   <img
     src="https://cdn.simpleicons.org/linkedin/0A66C2"
-    width="34"
-    height="34"
+    width="36"
+    height="36"
     alt="LinkedIn"
     title="LinkedIn"
   />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:narayanamanikumar2004@gmail.com">
   <img
     src="https://cdn.simpleicons.org/gmail/EA4335"
-    width="34"
-    height="34"
+    width="36"
+    height="36"
     alt="Email"
     title="Email"
   />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/manikumar208" target="_blank">
   <img
     src="https://cdn.simpleicons.org/github/FFFFFF"
-    width="34"
-    height="34"
+    width="36"
+    height="36"
     alt="GitHub"
     title="GitHub"
   />
@@ -162,114 +72,10 @@
 
 <br/><br/>
 
-<!-- ========================= PROFILE VIEWS ========================= -->
-
 <img
-  src="https://komarev.com/ghpvc/?username=manikumar208&label=Profile%20Views&color=38BDF8&style=for-the-badge"
+  src="https://komarev.com/ghpvc/?username=manikumar208&label=Profile%20Views&color=38BDF8&style=flat-square"
   alt="Profile Views"
 />
-
-<br/><br/>
-
-<!-- ========================= SHORT TAGLINE ========================= -->
-
-<strong>Backend Engineering • Cloud • APIs • Product Development</strong>
-
-<br/><br/>
-
-</div>"
-    width="34"
-    height="34"
-    alt="LinkedIn"
-    title="LinkedIn"
-  />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:narayanamanikumar2004@gmail.com">
-  <img
-    src="https://cdn.simpleicons.org/gmail/EA4335"
-    width="34"
-    height="34"
-    alt="Email"
-    title="Email"
-  />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/manikumar208" target="_blank">
-  <img
-    src="https://cdn.simpleicons.org/github/FFFFFF"
-    width="34"
-    height="34"
-    alt="GitHub"
-    title="GitHub"
-  />
-</a>
-
-<br/><br/>
-
-<!-- ========================= PROFILE VIEWS ========================= -->
-
-<img
-  src="https://komarev.com/ghpvc/?username=manikumar208&label=Profile%20Views&color=38BDF8&style=for-the-badge"
-  alt="Profile Views"
-/>
-
-<br/><br/>
-
-<!-- ========================= SHORT TAGLINE ========================= -->
-
-<strong>Backend Engineering • Cloud • APIs • Product Development</strong>
-
-<br/><br/>
-
-</div>"
-    width="34"
-    height="34"
-    alt="LinkedIn"
-    title="LinkedIn"
-  />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:narayanamanikumar2004@gmail.com">
-  <img
-    src="https://cdn.simpleicons.org/gmail/EA4335"
-    width="34"
-    height="34"
-    alt="Email"
-    title="Email"
-  />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/manikumar208" target="_blank">
-  <img
-    src="https://cdn.simpleicons.org/github/FFFFFF"
-    width="34"
-    height="34"
-    alt="GitHub"
-    title="GitHub"
-  />
-</a>
-
-<br/><br/>
-
-<!-- ========================= PROFILE VIEWS ========================= -->
-
-<img
-  src="https://komarev.com/ghpvc/?username=manikumar208&label=Profile%20Views&color=38BDF8&style=for-the-badge"
-  alt="Profile Views"
-/>
-
-<br/><br/>
-
-<!-- ========================= SHORT TAGLINE ========================= -->
-
-<strong>Backend Engineering • Cloud • APIs • Product Development</strong>
-
-<br/><br/>
 
 </div>
 
@@ -675,3 +481,6 @@ If you're building something interesting, let's connect.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:111827,100:1e293b" width="100%" />
 
 </div>
+
+
+Add images , animations, replace real user name, i want this read me file production level, industry level, icons, images, animations, conents, anyltics eveythings
