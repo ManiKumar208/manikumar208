@@ -1,108 +1,70 @@
-Yes. The current README is good structurally, but it can be upgraded significantly to look like a **professional software engineer / backend engineer GitHub profile**, rather than a template.
-
-I would use:
-
-* Premium animated hero
-* Compact social icons
-* Animated typing banner
-* Profile views
-* GitHub stats
-* Top languages
-* Contribution streak
-* Contribution graph
-* Snake animation
-* GitHub trophies
-* Tech-stack icons
-* Backend architecture visualization
-* Featured projects
-* Current focus
-* Engineering principles
-* Professional contact section
-* No `YOUR_USERNAME` placeholders
-* Consistent `Mani Nakka` public branding
-* No unnecessary duplicate sections
-* No unsupported fake achievements or metrics
-
-Below is the **complete production-level `README.md`**. You can copy-paste the entire thing.
-
-````markdown
 <div align="center">
 
-<!-- ========================================================= -->
-<!--                         HERO                              -->
-<!-- ========================================================= -->
+<!-- ========================= HERO ========================= -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,45:0F172A,100:1E293B&text=Mani%20Nakka&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Product%20Builder&descAlignY=63&descSize=18&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0B1220,50:111827,100:1E293B&text=Mani%20Nakka&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Product%20Builder&descAlignY=62&descSize=17&animation=fadeIn"
   width="100%"
   alt="Mani Nakka"
 />
 
 <br/>
 
-<!-- ========================================================= -->
-<!--                    ANIMATED INTRO                         -->
-<!-- ========================================================= -->
+<!-- ========================= INTRO ========================= -->
 
-<a href="https://github.com/ManiKumar208">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Building+reliable+backend+systems;Designing+clean+and+scalable+REST+APIs;Python+%7C+Django+%7C+DRF+%7C+PostgreSQL;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Linux;Turning+real-world+problems+into+software;Always+learning.+Always+building."
-  alt="Animated introduction"
-/>
-
-</a>
-
-<br/>
+<h3>Building reliable APIs, backend systems &amp; real-world products.</h3>
 
 <p>
-  <strong>Building reliable APIs, backend systems &amp; real-world products.</strong>
+  <code>Python</code>&nbsp;&nbsp;
+  <code>Django</code>&nbsp;&nbsp;
+  <code>DRF</code>&nbsp;&nbsp;
+  <code>PostgreSQL</code>&nbsp;&nbsp;
+  <code>AWS</code>&nbsp;&nbsp;
+  <code>Docker</code>
 </p>
 
 <br/>
 
-<!-- ========================================================= -->
-<!--                       SOCIAL LINKS                         -->
-<!-- ========================================================= -->
+<!-- ========================= SOCIAL LINKS ========================= -->
 
 <a href="https://nmanikumar.netlify.app" target="_blank">
   <img
     src="https://cdn.simpleicons.org/googlechrome/4285F4"
-    width="38"
-    height="38"
+    width="36"
+    height="36"
     alt="Portfolio"
     title="Portfolio"
   />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/manikumarnakka/" target="_blank">
   <img
     src="https://cdn.simpleicons.org/linkedin/0A66C2"
-    width="38"
-    height="38"
+    width="36"
+    height="36"
     alt="LinkedIn"
     title="LinkedIn"
   />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:narayanamanikumar2004@gmail.com">
   <img
     src="https://cdn.simpleicons.org/gmail/EA4335"
-    width="38"
-    height="38"
+    width="36"
+    height="36"
     alt="Email"
     title="Email"
   />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/ManiKumar208" target="_blank">
+<a href="https://github.com/manikumar208" target="_blank">
   <img
     src="https://cdn.simpleicons.org/github/FFFFFF"
-    width="38"
-    height="38"
+    width="36"
+    height="36"
     alt="GitHub"
     title="GitHub"
   />
@@ -110,95 +72,57 @@ Below is the **complete production-level `README.md`**. You can copy-paste the e
 
 <br/><br/>
 
-<!-- ========================================================= -->
-<!--                     PROFILE VIEWS                         -->
-<!-- ========================================================= -->
-
 <img
-  src="https://komarev.com/ghpvc/?username=ManiKumar208&label=Profile%20Views&color=38BDF8&style=flat-square"
+  src="https://komarev.com/ghpvc/?username=manikumar208&label=Profile%20Views&color=38BDF8&style=flat-square"
   alt="Profile Views"
 />
 
 </div>
 
----
-
-<!-- ========================================================= -->
-<!--                         ABOUT                             -->
-<!-- ========================================================= -->
-
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer focused on backend development**, building APIs, business logic, integrations, and cloud-ready applications.
+I'm a **Software Engineer focused on backend development**, building reliable APIs, business logic, integrations, and cloud-ready applications.
 
-I enjoy working across the engineering lifecycle — from designing APIs and data models to testing, deployment, debugging, and production improvement.
+My engineering approach is centered around:
 
 ```text
-Problem
-   ↓
-Architecture
-   ↓
-API Design
-   ↓
-Business Logic
-   ↓
-Data & Persistence
-   ↓
-Testing
-   ↓
-Deployment
-   ↓
-Monitoring & Improvement
-````
+Architecture → APIs → Data → Business Logic → Testing → Deployment
+```
 
 ### 🔭 What I Work On
 
 * 🐍 Python backend engineering
 * ⚙️ Django & Django REST Framework
-* 🗄️ PostgreSQL, MySQL & Redis
+* 🗄️ SQL & database design
 * 🔐 Authentication, authorization & RBAC
 * ☁️ AWS & cloud infrastructure
 * 🐳 Docker & containerized applications
-* 🧪 Pytest & API testing
-* 🔄 CI/CD automation
+* 🧪 Automated testing with Pytest
+* 🔄 CI/CD & engineering automation
 * 📡 Third-party API integrations
-* 📊 Production debugging & observability
-* 🏗️ System design & scalable backend architecture
-* 🤖 AI-powered backend integrations
+* 📊 Monitoring, debugging & production reliability
 
-> **Build software that is simple to understand, reliable in production, and ready to evolve.**
+> **Build systems that are simple to understand, reliable in production, and ready to evolve.**
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                       TECH STACK                          -->
-
-<!-- ========================================================= -->
-
-# 🧠 Technical Stack
+## 🧠 Tech Stack
 
 <div align="center">
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,typescript" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi" />
 
-<br/><br/>
+### Database
 
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis" />
 
 ### Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,nginx" />
 
-<br/><br/>
-
-### Development Tools
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash" />
 
@@ -206,85 +130,74 @@ Monitoring & Improvement
 
 ---
 
-# 🏗️ Engineering Capabilities
+## 🏗️ Engineering Capabilities
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-## ⚙️ Backend Engineering
+### ⚙️ Backend Engineering
 
 * REST API architecture
 * Django / DRF
-* FastAPI
 * Authentication & authorization
 * RBAC
 * Business workflows
 * Third-party integrations
 * Background processing
 * Error handling
-* API documentation
 * Swagger / OpenAPI
 
 </td>
 
 <td width="50%" valign="top">
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 * AWS
 * Docker
 * Linux
 * CI/CD
-* Nginx
-* Cloud deployment
-* IAM
 * CloudWatch
+* IAM
+* Application deployment
 * Environment management
 * Production debugging
-* Application monitoring
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-## 🗄️ Data Engineering
+### 🗄️ Data & Databases
 
 * PostgreSQL
 * MySQL
-* MongoDB
 * Redis
 * SQL optimization
 * ORM
 * Data modeling
 * Transactions
 * Data validation
-* Query optimization
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🧪 Engineering Practices
+### 🧪 Engineering Practices
 
 * Git workflows
 * Pull requests
 * Code reviews
-* Unit testing
-* API testing
 * Pytest
+* API testing
 * Clean architecture
 * Debugging
 * Documentation
 * Automation
 
 </td>
-
 </tr>
 </table>
 
@@ -292,93 +205,52 @@ Monitoring & Improvement
 
 # 🚀 Featured Projects
 
-## 🏥 Healthcare Platform
+### 🏥 Healthcare Platform
 
-Backend-focused healthcare platform involving APIs, authentication, RBAC, integrations, reporting, business workflows, and cloud infrastructure.
-
-### Architecture
+**Production-oriented healthcare platform focused on backend services, APIs, integrations, authentication, RBAC, reporting, and cloud infrastructure.**
 
 ```text
-                    ┌────────────────────┐
-                    │      Clients       │
-                    │ Web / Mobile / API │
-                    └─────────┬──────────┘
-                              │
-                              ▼
-                    ┌────────────────────┐
-                    │     REST APIs      │
-                    │     Django / DRF   │
-                    └─────────┬──────────┘
-                              │
-                              ▼
-                    ┌────────────────────┐
-                    │ Authentication     │
-                    │ Authorization      │
-                    │ RBAC               │
-                    └─────────┬──────────┘
-                              │
-                              ▼
-                    ┌────────────────────┐
-                    │  Business Logic   │
-                    │    Services       │
-                    └──────┬─────┬───────┘
-                           │     │
-                 ┌─────────┘     └──────────┐
-                 ▼                          ▼
-        ┌────────────────┐        ┌─────────────────┐
-        │  PostgreSQL    │        │ External APIs   │
-        │  Database      │        │ Integrations    │
-        └───────┬────────┘        └─────────────────┘
-                │
-                ▼
-        ┌────────────────┐
-        │     Redis      │
-        │ Cache / Jobs   │
-        └───────┬────────┘
-                │
-                ▼
-        ┌────────────────┐
-        │ AWS + Docker   │
-        │ Deployment     │
-        └────────────────┘
+Django / DRF
+      ↓
+REST APIs
+      ↓
+Business Logic
+      ↓
+Database
+      ↓
+External Integrations
+      ↓
+AWS Infrastructure
+      ↓
+Monitoring & Reliability
 ```
 
-**Focus**
-
-`Backend Architecture` · `Django` · `DRF` · `RBAC` · `PostgreSQL` · `Redis` · `AWS` · `Testing`
+**Focus:** `Backend Architecture` `REST APIs` `RBAC` `Integrations` `AWS` `Testing`
 
 ---
 
-## 🍽️ RR Village Dosa
+### 🍽️ RR Village Dosa
 
-Product-focused application built around a real-world food business.
-
-### Core Areas
+**Product-focused application being built around a real-world food business.**
 
 * 📱 Mobile application
 * 📍 Location & pincode functionality
 * 🛒 Product workflows
 * 🔌 Backend APIs
 * 🗄️ Database integration
-* 🔐 Authentication
 * 🚀 Deployment
 
-**Focus**
-
-`Product Engineering` · `Mobile` · `Backend` · `APIs` · `PostgreSQL`
+**Focus:** `Product Engineering` `Mobile` `Backend` `APIs`
 
 ---
 
-## 🌐 Personal Portfolio
+### 🌐 Personal Portfolio
 
-Developer portfolio showcasing engineering experience, projects, technical capabilities, and product work.
+**Developer portfolio showcasing engineering experience, projects, technical capabilities, and product work.**
 
-**Live:**
-[https://nmanikumar.netlify.app](https://nmanikumar.netlify.app)
+**Live:** [nmanikumar.netlify.app](https://nmanikumar.netlify.app)
 
-**Focus**
-
-`Developer Branding` · `Product Design` · `Engineering`
+**Focus:** `Developer Branding` `Product Design` `Engineering`
 
 ---
 
@@ -386,55 +258,46 @@ Developer portfolio showcasing engineering experience, projects, technical capab
 
 <div align="center">
 
-<img
-src="https://skillicons.dev/icons?i=python,django,postgresql,redis,aws,docker"
-alt="Backend Technology Stack"
-/>
+<img src="https://skillicons.dev/icons?i=python,django,postgres,redis,aws,docker" />
 
 <br/><br/>
 
 ```text
-                 ┌──────────────────────┐
-                 │       CLIENTS        │
-                 │ Web / Mobile / APIs  │
-                 └──────────┬───────────┘
-                            │
-                            ▼
-                 ┌──────────────────────┐
-                 │     API GATEWAY      │
-                 │   HTTP / REST APIs   │
-                 └──────────┬───────────┘
-                            │
-                            ▼
-                 ┌──────────────────────┐
-                 │ AUTHENTICATION       │
-                 │ AUTHORIZATION / RBAC │
-                 └──────────┬───────────┘
-                            │
-                            ▼
-                 ┌──────────────────────┐
-                 │   BUSINESS LOGIC     │
-                 │ Services / Workflows │
-                 └───────┬───────┬──────┘
-                         │       │
-              ┌──────────┘       └──────────┐
-              ▼                             ▼
-       ┌──────────────┐             ┌───────────────┐
-       │ PostgreSQL   │             │ External APIs │
-       │ Data Layer   │             │ Integrations  │
-       └──────┬───────┘             └───────────────┘
-              │
-              ▼
-       ┌──────────────┐
-       │    Redis     │
-       │ Cache / Jobs │
-       └──────┬───────┘
-              │
-              ▼
-       ┌──────────────┐
-       │ AWS / Docker │
-       │ Deployment   │
-       └──────────────┘
+                    ┌──────────────────┐
+                    │      Client      │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │    REST API      │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ Authentication   │
+                    │    & RBAC        │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ Business Logic   │
+                    └──────┬─────┬─────┘
+                           │     │
+                  ┌────────┘     └─────────┐
+                  ▼                        ▼
+          ┌──────────────┐        ┌────────────────┐
+          │  PostgreSQL  │        │ External APIs  │
+          └──────────────┘        └────────────────┘
+                  │
+                  ▼
+          ┌──────────────┐
+          │    Redis     │
+          └──────────────┘
+                  │
+                  ▼
+          ┌──────────────┐
+          │ AWS / Docker │
+          └──────────────┘
 ```
 
 </div>
@@ -445,17 +308,9 @@ alt="Backend Technology Stack"
 
 <div align="center">
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=ManiKumar208&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&rank_icon=github&include_all_commits=true"
-alt="GitHub Statistics"
-/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ManiKumar208&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&rank_icon=github&count_private=true" />
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiKumar208&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8&langs_count=8"
-alt="Top Languages"
-/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiKumar208&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8" />
 
 </div>
 
@@ -463,50 +318,17 @@ alt="Top Languages"
 
 <div align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=ManiKumar208&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B"
-alt="GitHub Contribution Streak"
-/>
+<img src="https://streak-stats.demolab.com?user=ManiKumar208&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🐍 Contribution Activity
 
 <div align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=ManiKumar208&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"
-alt="GitHub Trophies"
-/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=ManiKumar208&bg_color=00000000&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true"
-width="100%"
-alt="GitHub Contribution Activity"
-/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/ManiKumar208/ManiKumar208/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
-/>
+<img src="https://raw.githubusercontent.com/ManiKumar208/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
 
@@ -519,9 +341,9 @@ alt="GitHub Contribution Snake"
 
 <td align="center" width="25%">
 
-## ☁️
+### ☁️
 
-### Cloud Architecture
+**Cloud Architecture**
 
 AWS
 Networking
@@ -532,9 +354,9 @@ Observability
 
 <td align="center" width="25%">
 
-## 🏗️
+### 🏗️
 
-### System Design
+**System Design**
 
 Scalability
 Caching
@@ -545,9 +367,9 @@ Distributed Systems
 
 <td align="center" width="25%">
 
-## ⚡
+### ⚡
 
-### Performance
+**Performance**
 
 API Optimization
 Database Queries
@@ -557,9 +379,9 @@ Async Processing
 
 <td align="center" width="25%">
 
-## 🤖
+### 🤖
 
-### AI Engineering
+**AI Engineering**
 
 LLM APIs
 AI Integrations
@@ -577,22 +399,20 @@ Agents
 
 <div align="center">
 
-|      Principle      | Approach                           |
-| :-----------------: | :--------------------------------- |
-|    **Simplicity**   | Build understandable solutions     |
-|   **Scalability**   | Design for future growth           |
-|   **Reliability**   | Protect critical workflows         |
-|  **Observability**  | Understand what runs in production |
-|    **Automation**   | Reduce repetitive work             |
-|  **Documentation**  | Make decisions reusable            |
-|     **Security**    | Protect systems and user data      |
-| **Maintainability** | Optimize for long-term development |
+|     Principle     | Approach                        |
+| :---------------: | :------------------------------ |
+|   **Simplicity**  | Build understandable solutions  |
+|  **Scalability**  | Design for future growth        |
+|  **Reliability**  | Protect critical workflows      |
+| **Observability** | Monitor what runs in production |
+|   **Automation**  | Reduce repetitive work          |
+| **Documentation** | Make decisions reusable         |
 
 </div>
 
 ---
 
-# 📚 Engineering Learning Path
+# 📚 Learning Path
 
 <div align="center">
 
@@ -618,166 +438,46 @@ AI + Backend Engineering
 
 ---
 
-# 🔬 Areas of Interest
-
-<div align="center">
-
-`Backend Engineering`
-
-`System Design`
-
-`Cloud Architecture`
-
-`Distributed Systems`
-
-`Database Engineering`
-
-`API Design`
-
-`Developer Tools`
-
-`AI Engineering`
-
-`Automation`
-
-`Open Source`
-
-</div>
-
----
-
-# 🤝 Open Source & Collaboration
+# 🌍 Open Source & Collaboration
 
 Interested in collaborating on:
 
-```text
-Python
-Backend Systems
-Developer Tools
-Cloud Applications
-AI Products
-Open Source
-```
+`Python` · `Backend Systems` · `Developer Tools` · `Cloud Applications` · `AI Products` · `Open Source`
 
-If you're building something interesting, feel free to connect.
+If you're building something interesting, let's connect.
 
 ---
 
-# 📫 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://nmanikumar.netlify.app" target="_blank">
-  <img
-    src="https://cdn.simpleicons.org/googlechrome/4285F4"
-    width="34"
-    height="34"
-    alt="Portfolio"
-  />
+<img src="https://www.logo.wine/a/logo/Google_Chrome/Google_Chrome-Logo.wine.svg" width="38" alt="Portfolio"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+
+   
 
 <a href="https://www.linkedin.com/in/manikumarnakka/" target="_blank">
-  <img
-    src="https://cdn.simpleicons.org/linkedin/0A66C2"
-    width="34"
-    height="34"
-    alt="LinkedIn"
-  />
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+
+   
 
 <a href="mailto:narayanamanikumar2004@gmail.com">
-  <img
-    src="https://cdn.simpleicons.org/gmail/EA4335"
-    width="34"
-    height="34"
-    alt="Email"
-  />
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" alt="Email"/>
 </a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/ManiKumar208" target="_blank">
-  <img
-    src="https://cdn.simpleicons.org/github/FFFFFF"
-    width="34"
-    height="34"
-    alt="GitHub"
-  />
-</a>
-
-<br/><br/>
-
-<strong>Build → Learn → Improve → Repeat</strong>
-
-<br/><br/>
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,50:0F172A,100:1E293B"
-width="100%"
-alt="Footer"
-/>
 
 </div>
-```
 
-### Important correction
+<br/>
 
-You currently have:
+<div align="center">
 
-```text
-https://raw.githubusercontent.com/ManiKumar208/output/github-contribution-grid-snake.svg
-```
+### Build → Learn → Improve → Repeat
 
-That is incorrect because GitHub expects:
+<br/>
 
-```text
-https://raw.githubusercontent.com/OWNER/REPOSITORY/BRANCH/FILE
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:111827,100:1e293b" width="100%" />
 
-For a profile README repository named `ManiKumar208`, the correct form is:
-
-```text
-https://raw.githubusercontent.com/ManiKumar208/ManiKumar208/output/github-contribution-grid-snake.svg
-```
-
-So I corrected that in the README.
-
-### One thing I deliberately changed
-
-I removed the repeated large **"Let's Connect"** content from the middle and kept only one compact contact section at the bottom. This makes the README feel much more like an engineering portfolio and less like a collection of badges.
-
-The resulting visual hierarchy is:
-
-```text
-┌───────────────────────────────────────────────┐
-│                  MANI NAKKA                   │
-│ Software Engineer | Backend | Product Builder│
-├───────────────────────────────────────────────┤
-│        Animated engineering statements        │
-│                                               │
-│       🌐    LinkedIn    ✉    GitHub           │
-│              Profile Views                    │
-├───────────────────────────────────────────────┤
-│ About Me                                      │
-│ Tech Stack                                    │
-│ Engineering Capabilities                     │
-│                                               │
-│ Featured Projects                             │
-│ Backend Architecture                          │
-│                                               │
-│ GitHub Analytics                              │
-│ GitHub Trophies                               │
-│ Contribution Graph                            │
-│ Contribution Snake                            │
-│                                               │
-│ Currently Exploring                           │
-│ Engineering Principles                        │
-│ Learning Path                                 │
-│ Collaboration                                 │
-│                                               │
-│                 Let's Connect                 │
-└───────────────────────────────────────────────┘
-```
-
-This also keeps **`Mani Nakka` as the public-facing name**, while `ManiKumar208` is used only where GitHub technically requires the account username.
+</div>
