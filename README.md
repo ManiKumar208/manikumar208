@@ -1,14 +1,25 @@
 <div align="center">
 
-<!-- HERO -->
+<!-- ========================= HERO ========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:1e293b&text=Mani%20Nakka&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Product%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:1e293b&text=Mani%20Nakka&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Product%20Builder&descAlignY=60&descSize=18&animation=fadeIn"
+width="100%"
+alt="Narayana Mani Kumar"
+/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Backend+Engineer+building+production+systems;Python+%7C+Django+%7C+DRF+%7C+SQL;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Linux;Designing+APIs+that+solve+real+problems;Always+learning.+Always+building." alt="Typing SVG" />
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Backend+Engineer+building+production+systems;Python+%7C+Django+%7C+DRF+%7C+SQL;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Linux;Designing+APIs+that+solve+real+problems;Always+learning.+Always+building."
+alt="Backend Engineer typing animation"
+/>
 
 <br/><br/>
+
+<!-- SOCIAL / PORTFOLIO LINKS -->
 
 <a href="https://nmanikumar.netlify.app" target="_blank">
   <img
@@ -19,7 +30,7 @@
   />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+    
 
 <a href="https://www.linkedin.com/in/manikumarnakka/" target="_blank">
   <img
@@ -30,20 +41,36 @@
   />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+    
 
 <a href="mailto:narayanamanikumar2004@gmail.com">
   <img
-    src="https://zonalogo.com/assets/gmail-logo-png-svg.webp?asset=2891"
+    src="https://cdn.simpleicons.org/gmail/EA4335"
     width="42"
     height="42"
     alt="Email"
   />
 </a>
 
+    
+
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img
+    src="https://cdn.simpleicons.org/github/FFFFFF"
+    width="42"
+    height="42"
+    alt="GitHub"
+  />
+</a>
+
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=38BDF8&style=flat-square" />
+<!-- PROFILE VIEWS -->
+
+<img
+src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=38BDF8&style=flat-square"
+alt="Profile Views"
+/>
 
 </div>
 
